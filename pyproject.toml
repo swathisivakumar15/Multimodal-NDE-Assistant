@@ -1,0 +1,24 @@
+[project]
+name = "repl-nix-workspace"
+version = "0.1.0"
+description = "Add your description here"
+requires-python = ">=3.11"
+dependencies = [
+    "email-validator>=2.2.0",
+    "fitz>=0.0.1.dev2",
+    "flask>=3.1.1",
+    "flask-sqlalchemy>=3.1.1",
+    "gunicorn>=23.0.0",
+    "openai>=1.98.0",
+    "pillow>=11.3.0",
+    "psycopg2-binary>=2.9.10",
+    "pymupdf>=1.26.3",
+    "pypdf2>=3.0.1",
+    "python-magic>=0.4.27",
+    "pyttsx3>=2.99",
+    "requests>=2.32.4",
+    "sqlalchemy>=2.0.42",
+    "trafilatura>=2.0.0",
+    "urllib3>=2.5.0",
+    "werkzeug>=3.1.3",
+]
