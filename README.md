@@ -95,5 +95,7 @@ flask run
 ##  Contact
 
 For queries, collaboration, or demo requests:  
-📧 **Email:** [swathi2004sivakumar@gmail.com](mailto:swathi2004sivakumar@gmail.com)  
-🔗 **LinkedIn:** [linkedin.com/in/swathisivakumar](https://www.linkedin.com/in/swathisivakumar)  
+
+- 📧 **Email:** [swathi2004sivakumar@gmail.com](mailto:swathi2004sivakumar@gmail.com)  
+- 🔗 **LinkedIn:** [linkedin.com/in/swathisivakumar](https://www.linkedin.com/in/swathisivakumar)  
+
