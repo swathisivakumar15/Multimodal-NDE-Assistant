@@ -1,4 +1,4 @@
-# NDE AI Assistant
+#  MULTIMODAL NDE Assistant
 
 NDE AI Assistant is a Flask-based web application that provides specialized assistance for Non-Destructive Evaluation (NDE) professionals.  
 It combines AI-powered chat functionality with file processing, external content integration, and speech recognition, making it a powerful knowledge companion for NDT methods such as ultrasonic, radiographic, magnetic particle, and penetrant testing.
@@ -89,3 +89,11 @@ pip install -r requirements.txt
 
 # Run app
 flask run
+
+---
+
+##  Contact
+
+For queries, collaboration, or demo requests:  
+📧 **Email:** [swathi2004sivakumar@gmail.com](mailto:swathi2004sivakumar@gmail.com)  
+🔗 **LinkedIn:** [linkedin.com/in/swathisivakumar](https://www.linkedin.com/in/swathisivakumar)  
